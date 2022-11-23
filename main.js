@@ -96,4 +96,3 @@ const isJSON = (message) => {
 app.get('/', (req, res) => {
     res.send('Hello World!');
 });
-$(document).ready(function(){alert("test");});
